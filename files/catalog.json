@@ -1,0 +1,36 @@
+[
+    {
+        "source": "book",
+        "title": "ini book 1",
+        "subject": "null",
+        "upc": "null",
+        "isbn": "null",
+        "authors": "null",
+        "dbs_number": "null"
+    },
+    {
+        "source": "cd",
+        "title": "ini cd 1",
+        "subject": "null",
+        "upc": "null",
+        "artist": "null"
+    },
+    {
+        "source": "dvd",
+        "title": "dvd 1",
+        "upc":"null",
+        "subject": "null",
+        "actor": "null",
+        "director": "null",
+        "genre": "null"
+    },
+    {
+        "source": "magazine",
+        "title": "majalah 1",
+        "subject": "null",
+        "upc": "null",
+        "volume": "null",
+        "issue": "null"
+    }
+    
+]
